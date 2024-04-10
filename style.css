@@ -1,0 +1,21 @@
+table, th, td{
+  border: none;
+  margin: 20px;
+  padding: 10px;
+}
+
+.moda{
+  color: #fff;
+ background-color: #bb86fc; 
+}
+
+td{
+  color: #fff;
+  background-color: #424250;
+}
+
+.casa{
+  color: #fff;
+  background-color: #00c4b4;
+}
+
